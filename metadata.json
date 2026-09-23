@@ -1,0 +1,6 @@
+{
+  "name": "Path to Immortality - Xianxia Cultivation Tracker",
+  "description": "An immersive Xianxia RPG habit and task tracker for Android and web. Slay inner demons, cultivate Qi, breakthrough cultivation realms, brew pills, and attain immortality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
